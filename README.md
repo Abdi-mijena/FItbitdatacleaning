@@ -1,9 +1,9 @@
 The dataset includes the following files:
 
 
-- 'README.txt'
+- 'README.md'
 
-- 'features_info.txt': Shows information about the variables used on the feature vector.
+- 'codebook.md': Shows information about the variables
 
 - 'features.txt': List of all features.
 
